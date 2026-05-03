@@ -6,9 +6,9 @@
 
 <br/>
 
-<h3>Building at the intersection of data, intelligence, and impact</h3>
+<h2>Building at the intersection of data, intelligence, and impact</h2>
 
-**Full-stack founder | Analytics architect | Building tools that think**
+<h3><strong>Full-stack founder | Analytics architect | Building tools that think</strong></h3>
 
 <br/>
 
