@@ -59,12 +59,13 @@
 
 ### ⚛ AI Integrations
 
-<!-- Combined tech stack icons in a single line -->
-<img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,gemini,claude&perline=10"style="display:inline; margin-left: 10px;"  />
+<!-- Tech stack AI integrations icons -->
+<img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,gemini,claude&perline=10" style="display:inline; margin-left: 10px;" />
+
 <br/>
 
-<!-- Stack names (existing and new) -->
-`ChatGPT` `Gemini` `Claude` 
+<!-- Stack names -->
+`ChatGPT` `Gemini` `Claude`
 
 </div>
 
