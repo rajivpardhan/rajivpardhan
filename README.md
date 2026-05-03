@@ -2,16 +2,16 @@
 
 # 👋 Hi there, I'm Rajiv Pardhan
 
-[![](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rajivpardhan)
 [![](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajivpardhan/)
+[![](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rajivpardhan)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=&fontSize=0&animation=twinkling"/>
+<br/>
 
-<h3>Building at the intersection of <br/>data, intelligence, and impact</h3>
+<h3>Building at the intersection of data, intelligence, and impact</h3>
 
-### Full-stack founder | Analytics architect | Building tools that think
+**Full-stack founder | Analytics architect | Building tools that think**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Turning+fragmented+data+into+semantic+intelligence;Building+the+infrastructure+for+better+decisions;From+BigQuery+to+boardrooms" alt="Typing SVG" />
+<br/>
 
 </div>
 
@@ -21,8 +21,8 @@
 
 ## 📊 What I'm building with
 
-<img src="https://github-readme-stats.vercel.app/api?username=rajivpardhan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide=stars" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rajivpardhan&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=rajivpardhan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide=stars" width="49.5%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rajivpardhan&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" width="49.5%" />
 
 </div>
 
@@ -32,7 +32,10 @@
 
 ### 🔥 Contribution Rhythm
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajivpardhan&theme=github_dark)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajivpardhan&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9" width="100%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajivpardhan&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="49.5%" />
+<img src="https://github-readme-stats.vercel.app/api?username=rajivpardhan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide=stars&count_private=true" width="49.5%" />
 
 </div>
 
@@ -42,14 +45,11 @@
 
 ### ⚡ Stack
 
-<p>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=gcp,python,pytorch,tensorflow,docker,kubernetes,postgres,redis,kafka,spark&perline=10" />
+
+<br/>
+
+`GCP` `BigQuery` `dbt` `Looker` `PySpark` `Airflow` `FastAPI` `React` `PostgreSQL`
 
 </div>
 
@@ -92,7 +92,7 @@ class Builder:
 ### 💬 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajivpardhan/)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajivpardhan)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
 
@@ -100,6 +100,6 @@ class Builder:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<sub>💡 *Building the infrastructure for better decisions*</sub>
 
 </div>
