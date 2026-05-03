@@ -84,7 +84,7 @@
 
 </details> -->
 
-<details>
+<details open>
 <summary><b>🎯 What drives the work</b></summary>
 <br/>
 
