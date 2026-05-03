@@ -42,11 +42,14 @@
 
 ### ⚡ Stack
 
-<img src="https://skillicons.dev/icons?i=gcp,python,pytorch,tensorflow,docker,kubernetes,postgres,redis,kafka,spark&perline=10" />
+<!-- Combined tech stack icons in a single line -->
+<img src="https://go-skill-icons.vercel.app/api/icons?i=aws,dbtlabs,gcp,bigquery,airflow,azure,docker&perline=10"  />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,kubernetes,postgres&perline=10"style="display:inline; margin-left: 10px;" />
 
 <br/>
 
-`GCP` `BigQuery` `dbt` `Looker` `PySpark` `Airflow` `FastAPI` `React` `PostgreSQL`
+<!-- Stack names (existing and new) -->
+`AWS` `dbt` `GCP` `BigQuery` `Airflow` `Azure` `Docker` `Python` `Pytorch` `Tensorflow` `Kubernetes` `PostgreSQL` 
 
 </div>
 
