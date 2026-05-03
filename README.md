@@ -7,9 +7,7 @@
 <br/>
 
 <h2>Building at the intersection of data, intelligence, and impact</h2>
-
 <h3><strong>Full-stack founder | Analytics architect | Building tools that think</strong></h3>
-
 <br/>
 
 </div>
@@ -18,7 +16,7 @@
 
 <div align="center">
 
-## 📊 What I'm building with
+## 💪 What I'm building with
 
 <img src="https://github-readme-stats.vercel.app/api?username=rajivpardhan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide=stars" width="49.5%" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=rajivpardhan&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" width="49.5%" />
