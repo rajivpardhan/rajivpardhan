@@ -3,7 +3,6 @@
 # 👋 Hi there, I'm Rajiv Pardhan
 
 [![](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajivpardhan/)
-[![](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rajivpardhan)
 
 <br/>
 
@@ -72,16 +71,13 @@
 <summary><b>🎯 What drives the work</b></summary>
 <br/>
 
-```python
-class Builder:
-    def __init__(self):
-        self.focus = ["semantic_data_layers", "decision_infrastructure", "AI_systems"]
-        self.philosophy = "outcome_first_engineering"
-        self.current_build = ["analytics_platforms", "ERP_systems", "intelligent_tools"]
-    
-    def approach(self):
-        return "Building systems that empower independent decisions, not deliver answers"
-```
+Passionate about building systems at the intersection of analytics, infrastructure, and AI.
+
+- **Focus Areas:** Semantic data layers, decision infrastructure, and practical AI systems  
+- **Philosophy:** Outcome-first engineering — prioritizing real value and actionable insights  
+- **Current Initiatives:** Analytics platforms, ERP systems, and intelligent tools
+
+> I believe in creating infrastructure that empowers people to make independent, informed decisions—not just surfacing answers.
 
 </details>
 
@@ -92,7 +88,6 @@ class Builder:
 ### 💬 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajivpardhan/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
 
